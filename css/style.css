@@ -1291,3 +1291,17 @@ footer .credits a {
     width: 100%;
     height: 100%;
 }
+
+.about {
+  font-size: 1.25em;
+}
+
+@media (min-width: 1024px) {
+  .vertical-center {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform:  translateY(-50%);
+  }
+}
