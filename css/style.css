@@ -327,7 +327,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #0078ff;
+  background: #697f8d;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -482,11 +482,11 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #697f8d;
+  color: #2d383f;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #697f8d;
+  background-color: #2d383f;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
@@ -497,11 +497,11 @@ a:hover {
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #697f8d;
+  color: #2d383f;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #697f8d;
+  color: #2d383f;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
